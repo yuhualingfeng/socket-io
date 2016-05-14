@@ -1,0 +1,26 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuhualingfeng/socket-io.git"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "yuhualingfeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuhualingfeng/socket-io/issues"
+  },
+  "homepage": "https://github.com/yuhualingfeng/socket-io#readme",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.6"
+  }
+}
